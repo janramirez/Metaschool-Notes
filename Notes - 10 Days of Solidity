@@ -1,0 +1,74 @@
+# 10 days of Solidity
+
+Day 1 - Intro to Web3.0
+Notes:
+	Web3.0 - latest version of the internet where people have full ownership of their content, data and assets
+	Relies on general consensus not on government regulations and corporate policies
+	Decentralization and democratization of the internet.
+	
+	Web1.0 = read
+	Consists of static html pages interconnected using hyperlinks
+	
+	Web2.0 = read,write
+	Current most used version of the internet. Sharing and content creation is enabled.
+	Caters to consumer markets, those who gathered followerships only get paid.
+	Rise of social networks, selling of personal data to advertisers are rampant => privacy became a primary concern.
+	
+	Web3.0 = read,write,own
+	Solves privacy and personal data concerns through ownership of digital content, data, and assets.
+	Decmocratized Internet - where the internet is governed by users for the benefit of users.
+	
+	Web3 gives users full ownership of their assets, data, and any content via blockchains.
+	
+	
+	Blockchain - public list of records. Stores information in batches called blocks.
+	Blocks are linked together to form a continuous line like a chain, hence blockchain.
+	
+	Blockchain is immutable. What is recorded in the blockchain can never be changed. Any digital transaction made and recorded on the blockchain is there forever and can never be changed or modified.
+	
+	Open: open-source softwware built by an open and accessible community of developers and executed in the full view of the world
+	
+	Trustless: Allows participants to interact publicly or privately without any third-party
+	
+	Permissionless: Anyone can participate. No need for authorization from a governing body
+	
+	
+Day 2 - Intro to Blockchain theory and consensus mechanism
+
+	Blockcahin - a block is an entity that stores any real-world data. It stores transactions happening on the internet.
+	Chain - a cryptographic link of a block with the previous block. It is the link between blocks that forms a chain of blocks.
+	Blockchain is a collection of blocks chained together using cryptography.
+	
+	Features of Blockchain
+		- immutable (unchangeable) data storage
+		- decentralized: no central authority that controls the blockchain
+		- Peer-to-peer: distributed technology shared among the nodes participating in the network
+		- trustless: people don't have to rely on any third party for their transactions and holdings
+		- secure: decentralization, cryptography and consensus at its core
+		
+	How it works?
+	1. Genesis Block - first block of a blockchain. A block's size is limited and can only contain a limited number of transactions
+	2. To link blocks, every block is assigned a unique hash id generated using data present in that block.
+	3. The hash id of the preceding block is stored in the succeeding block and become 1 of the basis of that blocks hash id. The generated hash id is then stored into the next block and a hash id is again generated for that block.
+	
+	
+	ETH - symbol for the Ether cryptocurrency: the native currency of the Ethereum blockchain.
+	
+	
+	Blockchain layers:
+	Layer 0 - consists of components such as the internet, hardware, and connections that support the smooth functioning of Layer 1
+	Layer 1 - "Implementation Layer", refers to the core architecture of a blockchain network. It defines a set of rules for operations like transaction throughput, block time, consensus algorithm, etc.
+	Layer 2 - framework that provides full pledged solution to Layer 1 to improve its performance
+	
+	Why need layer 2?
+	Layer 1's problems such as low transaction throughput and performance due to the increasing number of users. 
+	To solve layer 1's problem, Layer 2 acts like a third-party integration that works in conjunction with Layer 1. Part of the work that has to be done by Layer 1 will be done by Layer 2 while still following protocols of Layer 1.
+	
+	Layer 3 - enables development of applications (dApps). This layer hosts these dApps and defines the protocols for them
+	This layer allows users to interact with a blockchain.
+	
+	
+	Popular public blockchain networks:
+		- Bitcoin
+		- Ethereum
+		- Binance
